@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://klyuch-dlya-happ.github.io/vpn-klyuch-2026/sitemap.xml

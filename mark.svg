@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3d97a"/>
+      <stop offset="1" stop-color="#c8992a"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0b0c12"/>
+  <!-- ключ: кольцевая головка + стержень с двумя зубцами, читается на 16px -->
+  <g fill="none" stroke="url(#g)" stroke-linecap="round">
+    <circle cx="24" cy="24" r="10.5" stroke-width="6"/>
+    <path d="M31.5 31.5 L48 48" stroke-width="6.5"/>
+    <path d="M41 44 L46.5 38.5" stroke-width="6"/>
+    <path d="M35.5 38.5 L41 33" stroke-width="6"/>
+  </g>
+</svg>
